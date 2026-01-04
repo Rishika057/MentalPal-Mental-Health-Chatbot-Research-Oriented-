@@ -3,11 +3,11 @@
 A Python-based research chatbot designed to assist users with mental health support. Built from scratch using **NLP preprocessing** and **sequence modeling (RNN/CNN/LSTM)**. Fully research-oriented. No APIs used.
 
 ✨ Features
-🗣️ Understands user text input and responds contextually
-🤖 Uses RNN, CNN, and LSTM models for sequence learning
-📝 Custom preprocessing: tokenization, lemmatization, and padding
-🎲 Handles multiple intents with random response selection
-💡 Great for learning NLP and conversational AI from scratch
+* 🗣️ Understands user text input and responds contextually
+* 🤖 Uses RNN, CNN, and LSTM models for sequence learning
+* 📝 Custom preprocessing: tokenization, lemmatization, and padding
+* 🎲 Handles multiple intents with random response selection
+* 💡 Great for learning NLP and conversational AI from scratch
 
 📊 Model Performance
 The models were trained and monitored for accuracy and loss over epochs. 
@@ -21,23 +21,22 @@ The models were trained and monitored for accuracy and loss over epochs.
 Each graph shows training vs validation accuracy and loss over epochs for the respective model.
 
 🛠️ Requirements
-Python 3.8+
-tensorflow
-pandas
-numpy
-nltk
-scikit-learn
-matplotlib
-joblib
+* Python 3.8+
+* tensorflow
+* pandas
+* numpy
+* nltk
+* scikit-learn
+* matplotlib
+* joblib
 
 > Install all dependencies:
 pip install -r requirements.txt
 
 🚀 How to Run
-git clone <your-repo-link>
-cd mental-health-chatbot
-python scripts/chatbot.py
-
+* git clone <your-repo-link>
+* cd mental-health-chatbot
+* python scripts/chatbot.py
 * Type your message to the chatbot and press Enter
 * Type exit, quit, or bye to end the conversation
 
