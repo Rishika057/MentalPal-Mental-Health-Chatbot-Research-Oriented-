@@ -46,5 +46,7 @@ pip install -r requirements.txt
 * Expand dataset for more intents and improved accuracy
 * Use pre-trained embeddings like GloVe or Word2Vec
 
+💬 Demo
+<img width="819" height="187" alt="image" src="https://github.com/user-attachments/assets/64dbf518-f9b6-4cb1-9025-7e0bd1c4a626" />
 
 
